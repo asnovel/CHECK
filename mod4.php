@@ -1,3 +1,2 @@
 <?php
-$foods=[
-    "mango
+echo "hello world";
