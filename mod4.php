@@ -1,10 +1,3 @@
 <?php
 $foods=[
-    "mango",
-    "apple",
-    "banana",
-    "rice",
-    "kacci",
-];
-$SliceKorbo=array_slice($foods,-5,2);
-print_r($SliceKorbo);
+    "mango
